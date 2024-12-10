@@ -24,8 +24,7 @@ To play the game, follow the steps below:
 
 1. **Clone or Download the Repository**:
    - Download the entire project or clone it using Git:
-   ```bash
-   git clone <repository-url>
+   
 ## Game Instructions
 
 ### Movement:
