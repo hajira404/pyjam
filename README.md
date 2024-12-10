@@ -32,10 +32,10 @@ To play the game, follow the steps below:
 - Hold **Shift** to move faster.
 
 ### Shooting:
-- Press the **Spacebar** to shoot bullets. The bullet type depends on the current level.
+- Press the **Spacebar** to shoot bullets.
 
 ### Objective:
-- Defeat aliens to progress through levels.
+- Defeat aliens to progress through levels. 3 shoots to defeat.
 - Collect resources like food and energy drinks to restore hearts and energy.
 
 ### Game Over:
@@ -62,7 +62,7 @@ The game supports different bullet types:
 - Ice Bullets
 - Gravity Bullets
 
-The bullet type is set based on the current level.
+The bullet type for now implemented is fire bullet. 
 
 ### Scoreboard:
 After finishing the game, the scoreboard shows:
@@ -74,4 +74,5 @@ After finishing the game, the scoreboard shows:
 - **Power-ups**: Add more power-ups and upgrades for the player.
 - **More Levels**: Introduce more levels with different alien types and challenges.
 - **Online Leaderboard**: Track high scores globally.
+- More sprites are designed already , will be implemented in the future.
 
